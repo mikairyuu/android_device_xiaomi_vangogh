@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_vangogh.mk
+    $(LOCAL_DIR)/evolution_vangogh.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_vangogh-user \
-    lineage_vangogh-userdebug \
-    lineage_vangogh-eng
+    evolution_vangogh-user \
+    evolution_vangogh-userdebug \
+    evolution_vangogh-eng
